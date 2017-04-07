@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>Eurekour</name>
-	<description>eurekour</description>
+	<description>Application de gestion éducative</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -28,10 +28,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-jdbc</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

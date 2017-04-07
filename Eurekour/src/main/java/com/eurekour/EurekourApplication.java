@@ -8,6 +8,5 @@ public class EurekourApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekourApplication.class, args);
-		
 	}
 }
